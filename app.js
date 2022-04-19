@@ -28,34 +28,34 @@ let Playing_song = false;
 let track = document.createElement('audio');
 let All_song = [
    {
-     name: "Believer",
+     name: "Teri Photo",
      path: "music/song1.mp3",
      img: "img/songimg.png",
-     singer: "Jessy"
+     singer: "YoYo"
    },
    {
-     name: "Friends",
+     name: "Mere Bare",
      path: "music/song2.mp3",
      img: "img/songimg.png",
-     singer: "Anne Marie"
+     singer: "Garry Sandhu"
    },
    {
-     name: "Infinity",
+     name: "Kangna",
      path: "music/song3.mp3",
      img: "img/songimg.png",
-     singer: "Jaymes Young"
+     singer: "Dr.Zeus"
    },
    {
-     name: "MOY",
+     name: "Soch",
      path: "music/song4.mp3",
      img: "img/songimg.png",
-     singer: "Kiboomers"
+     singer: "Hardy Sandhu"
    },
    {
-     name: "Who Says",
+     name: "Jeena Yahan",
      path: "music/song5.mp3",
      img: "img/songimg.png",
-     singer: "Selena Gomez"
+     singer: "Mukesh Ji"
    }
 ];
 
